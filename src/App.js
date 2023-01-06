@@ -13,7 +13,6 @@ function App() {
     dark:bg-gray-900 bg-white"
     >
       <NavigationMenu />
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
       <main className="">
         <Routes>
           <Route path="/" element={<LandingPage />} />
