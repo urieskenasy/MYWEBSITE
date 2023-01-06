@@ -16,7 +16,7 @@ function App() {
       <h1 className="text-3xl font-bold underline">Hello world!</h1>
       <main className="">
         <Routes>
-          <Route path="/landingPage" element={<LandingPage />} />
+          <Route path="/" element={<LandingPage />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/project/:id" element={<Project />} />
