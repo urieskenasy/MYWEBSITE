@@ -43,19 +43,6 @@ export default function NavigationMenu() {
           } md:opacity-100`}
         >
           {Links.map((item, i) => {
-            if (item.hash) {
-              return (
-                <li
-                  className="md:ml-8 text-xl text-gray-800 dark:text-indigo-50 hover:text-gray-400 duration-500 text-xl md:my-0 my-7"
-                  key={i}
-                >
-                  {" "}
-                  <HashLink onClick={() => setNavOpen(!navOpen)} to={item.link}>
-                    {item.name}
-                  </HashLink>
-                </li>
-              );
-            }
             return (
               <li
                 className="md:ml-8 text-xl text-gray-800 dark:text-indigo-50 hover:text-gray-400 duration-500 text-xl md:my-0 my-7"
