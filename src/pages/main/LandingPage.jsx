@@ -11,13 +11,13 @@ export default function LandingPage() {
     >
       <div className="z-40 justify-center items-center flex-col overflow-hidden md:h-96 md:w-96 flex w-56 h-56 shadow-xl rounded-full p-2 hover:shadow-lg duration-500 shadow-indigo-500 hover:shadow-indigo-400 dark:shadow-indigo-100 cursor-pointer">
         {" "}
-        <h1 className="text-sm md:text-3xl text-slate-500 font-bold mb-2 text-black-700 font-extralight dark:text-indigo-50">
+        <h1 className="text-sm md:text-3xl text-slate-500 font-bold mb-2 text-black-700 font-light dark:text-indigo-50">
           Welcome To My page
         </h1>
-        <h1 className="text-sm md:text-4xl text-slate-500 font-bold mb-2 text-black-700 font-extralight dark:text-indigo-50">
+        <h1 className="text-sm md:text-4xl text-slate-500 font-bold mb-2 text-black-700 font-light dark:text-indigo-50">
           I'm Uri,
         </h1>
-        <h1 className="text-sm md:text-3xl  text-slate-500 font-bold text-black-700 font-extralight dark:text-indigo-50">
+        <h1 className="text-sm md:text-3xl  text-slate-500 font-bold text-black-700 font-light dark:text-indigo-50">
           {" "}
           <Typed
             strings={[

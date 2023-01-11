@@ -7,7 +7,6 @@ import { BsSun, BsFillMoonFill } from "react-icons/bs";
 import { Context } from "../store/Context";
 import { Links } from "../assets/data/navigationMenuData.js";
 import Button from "./Button";
-import { HashLink } from "react-router-hash-link";
 export default function NavigationMenu() {
   const [navOpen, setNavOpen] = useState(false);
   const { setTheme, theme } = useContext(Context);

@@ -16,10 +16,8 @@ function ContextProvider({ children }) {
   useEffect(() => {
     if (theme === "dark") {
       document.documentElement.classList.add("dark");
-      console.log("D");
     } else {
       document.documentElement.classList.remove("dark");
-      console.log("L");
     }
   }, [theme]);
 

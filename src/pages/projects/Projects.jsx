@@ -14,7 +14,7 @@ const Card = ({ id, name, img }) => {
         alt="project description"
         className="h-64 object-cover w-full"
       />
-      <h3 className="text-xl font-extralight text-gray-800 dark:text-indigo-50">
+      <h3 className="text-xl font-light text-gray-800 dark:text-indigo-50">
         {name}
       </h3>
     </Link>
@@ -24,10 +24,10 @@ const Card = ({ id, name, img }) => {
 export default function Projects() {
   return (
     <div
-      className="min-h-screen w-full mt-10 md:w-11/12 flex flex-wrap justify-center items-center p-8"
+      className="min-h-screen w-full mt-20 md:w-11/12 flex flex-wrap justify-center items-center p-8"
       style={{ margin: "2rem auto" }}
     >
-      <h2 className="text-3xl font-extralight text-gray-800 mt-12 mb-10 dark:text-indigo-50">
+      <h2 className="text-3xl font-extralight text-gray-800 mt-24 mb-10 dark:text-indigo-50">
         PROJECTS
       </h2>
       <div className="flex flex-wrap justify-center items-center">
