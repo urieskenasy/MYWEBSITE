@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.72243208.css",
-    "main.js": "/static/js/main.1964b7ec.js",
+    "main.css": "/static/css/main.c2ec802a.css",
+    "main.js": "/static/js/main.0d22e7c1.js",
     "static/js/787.855f30ea.chunk.js": "/static/js/787.855f30ea.chunk.js",
     "static/media/hobbit.png": "/static/media/hobbit.fc25fbd4e2302e9d4440.png",
     "static/media/foodApp.png": "/static/media/foodApp.91b525501bd5284e2f2a.png",
@@ -14,17 +14,13 @@
     "static/media/meSmile02.png": "/static/media/meSmile02.7c293cbddc22ab00400a.png",
     "static/media/meCode01.jpeg": "/static/media/meCode01.0822bcc506851c6a7416.jpeg",
     "static/media/WhatsApp_Image_2022-12-10_at_22.27.29-removebg-preview.png": "/static/media/WhatsApp_Image_2022-12-10_at_22.27.29-removebg-preview.bd4cdb3345ce984fd8b3.png",
-    "static/media/meCode02.jpeg": "/static/media/meCode02.bae68f7430a6f1323385.jpeg",
     "static/media/lazyDevs.png": "/static/media/lazyDevs.7a8f0be54597c05dbf11.png",
     "static/media/WhatsApp_Image_2022-12-10_at_22.25.22__1_-removebg-preview.png": "/static/media/WhatsApp_Image_2022-12-10_at_22.25.22__1_-removebg-preview.55dfcf119951ae443118.png",
     "static/media/WhatsApp_Image_2022-12-10_at_22.29.52-removebg-preview.png": "/static/media/WhatsApp_Image_2022-12-10_at_22.29.52-removebg-preview.84c7cc4d1002e72e9510.png",
-    "static/media/meLookUp.png": "/static/media/meLookUp.84c7cc4d1002e72e9510.png",
-    "static/media/meAndHer.png": "/static/media/meAndHer.dd071dfe99f25c9a9cf7.png",
     "static/media/roboto-all-500-normal.woff": "/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
     "static/media/roboto-all-400-normal.woff": "/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
     "static/media/roboto-all-300-normal.woff": "/static/media/roboto-all-300-normal.168d6383e73339293ac3.woff",
-    "static/media/lucky.png": "/static/media/lucky.8fca91ba320e75fb00ef.png",
     "static/media/WhatsApp_Image_2022-12-10_at_22.29.32-removebg-preview.png": "/static/media/WhatsApp_Image_2022-12-10_at_22.29.32-removebg-preview.e582ff3968643cca36ea.png",
     "static/media/roboto-latin-500-normal.woff2": "/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
@@ -55,12 +51,12 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/index.html",
-    "main.72243208.css.map": "/static/css/main.72243208.css.map",
-    "main.1964b7ec.js.map": "/static/js/main.1964b7ec.js.map",
+    "main.c2ec802a.css.map": "/static/css/main.c2ec802a.css.map",
+    "main.0d22e7c1.js.map": "/static/js/main.0d22e7c1.js.map",
     "787.855f30ea.chunk.js.map": "/static/js/787.855f30ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72243208.css",
-    "static/js/main.1964b7ec.js"
+    "static/css/main.c2ec802a.css",
+    "static/js/main.0d22e7c1.js"
   ]
 }
