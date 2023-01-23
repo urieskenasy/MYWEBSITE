@@ -44,14 +44,15 @@ export default function Contact() {
   const [sent, setSent] = useState(false);
   const [displaySent, setDisplaySent] = useState(false);
   const sendEmail = (e) => {
+    console.log(process.env.REACT_APP_SERVICE_ID);
     e.preventDefault();
     setDisplaySent(true);
     emailjs
       .sendForm(
-        "service_1l1kcki",
-        "template_oi6lxpc",
+        process.env.REACT_APP_SERVICE_ID,
+        process.env.REACT_APP_TEMPLATE_ID,
         form.current,
-        "WlWPmqkRekKDtErd2"
+        process.env.REACT_APP_PUBLIC_KEY
       )
       .then(
         (result) => {

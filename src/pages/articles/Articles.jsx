@@ -23,6 +23,9 @@ export default function Articles() {
 
       <div className=" h-auto flex mt-20  dark:text-indigo-50 justify-center items-center flex-wrap gap-9 mb-20">
         {articlesData.map((article, i) => {
+          if(i === 0){
+            return null
+          }
           return <Card key={i} {...article} />;
         })}
       </div>
