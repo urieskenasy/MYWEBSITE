@@ -111,7 +111,6 @@ export default function Contact() {
               <TextField
                 id="outlined-textarea"
                 label="Your Message"
-                placeholder="Placeholder"
                 multiline
                 name="message"
                 size="large"
