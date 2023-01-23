@@ -3,7 +3,9 @@ import foodApp from "../projectImages/foodApp.png";
 import hobbit from "../projectImages/hobbit.png";
 import lazyDevs from "../projectImages/lazyDevs.png";
 import todos from "../projectImages/todoApp.png";
-
+import meditation from "../projectImages/meditation.png";
+import pig from "../projectImages/pig.png";
+import guess from "../projectImages/guess.png";
 export const PROJECTS = [
   {
     id: 0,
@@ -66,5 +68,41 @@ export const PROJECTS = [
     githubLink: "https://github.com/urieskenasy/todos-mini-app",
     live: "https://urieskenasy.github.io/todos-mini-app/",
     img: todos,
+  },
+  {
+    id: 5,
+    name: "Meditation App",
+    description: {
+      technologies: "Javascript, Css, and HTML",
+      description:
+        "A simple small app i created using vanilla javascript. User can change the duration time and also change the background theme, from rainy cozy day to the waves on the beach.",
+    },
+    githubLink: "https://github.com/urieskenasy/meditation-mini-app",
+    live: "https://meditation-uris.netlify.app/",
+    img: meditation,
+  },
+  {
+    id: 6,
+    name: "Pig Game",
+    description: {
+      technologies: "Javascript, Css, and HTML",
+      description:
+        "A simple small game I created. Users can play in pairs, each player gets his turn to roll the dice, once a player is satisfied with his score he clicks on hold to hold hid score, then the next play gets to play. The one who gets first to 18 is the winner!",
+    },
+    githubLink: "https://github.com/urieskenasy/pig-game",
+    live: "https://pig-game-uri.netlify.app/",
+    img: pig,
+  },
+  {
+    id: 7,
+    name: "Guess My Number",
+    description: {
+      technologies: "Javascript, Css, and HTML",
+      description:
+        "A simple small game I created. Users can guess the given number. when the user submits his guess he will get clues about whether he should go higher with his guess or lower.",
+    },
+    githubLink: "https://github.com/urieskenasy/Guess-My-Number",
+    live: "https://guess-my-number-uri.netlify.app/",
+    img: guess,
   },
 ];
