@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c2ec802a.css",
-    "main.js": "/static/js/main.b3a234bb.js",
+    "main.js": "/static/js/main.559c30e3.js",
     "static/js/787.855f30ea.chunk.js": "/static/js/787.855f30ea.chunk.js",
     "static/media/meditation.png": "/static/media/meditation.f25a756fcd75d7692918.png",
     "static/media/hobbit.png": "/static/media/hobbit.fc25fbd4e2302e9d4440.png",
@@ -55,11 +55,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/index.html",
     "main.c2ec802a.css.map": "/static/css/main.c2ec802a.css.map",
-    "main.b3a234bb.js.map": "/static/js/main.b3a234bb.js.map",
+    "main.559c30e3.js.map": "/static/js/main.559c30e3.js.map",
     "787.855f30ea.chunk.js.map": "/static/js/787.855f30ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2ec802a.css",
-    "static/js/main.b3a234bb.js"
+    "static/js/main.559c30e3.js"
   ]
 }
