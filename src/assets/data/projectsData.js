@@ -15,7 +15,7 @@ export const PROJECTS = [
       description:
         "Team project i have created with my colleges. It is an authentication tool for developers. It will create for you all the authentication backend and front-end forms that are necessary for a user to log in, register, and log out from your website.",
     },
-    githubLink: "https://github.com/Code-Generator-Sufaz/lazy-devs-v3",
+    githubLink: "https://github.com/urieskenasy/LAZY-DEVS",
     live: "https://lazydevs.onrender.com/",
     img: lazyDevs,
   },
@@ -27,7 +27,7 @@ export const PROJECTS = [
       description:
         "Team project i have created with my colleges. It is a small social media for people to meet each-other according to their shared hobbies. You will be able to sign up and share your hobbies. On the main dashboard you will only see people who share with you the same hobbies. You have the option to chat with them, get to know them and hopefully become friends 🤙",
     },
-    githubLink: "https://github.com/Fridabug/hobbit",
+    githubLink: "https://github.com/urieskenasy/HOBBIT",
     live: "https://hobbit-xi.vercel.app/",
     img: hobbit,
   },
