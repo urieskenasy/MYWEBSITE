@@ -1,6 +1,6 @@
 
 # My Portfolio Website
-Teachnologies Used: ReactJS, Tailwind CSS and javascript.
+Technologies Used: ReactJS, Tailwind CSS and javascript.
 
 I am exited that you are here to check it out, my goal was to make some pretty simple app, where i can tell a little about me, show my skills and latest projects. Enjoy! 
 
