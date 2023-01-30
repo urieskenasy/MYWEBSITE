@@ -6,6 +6,7 @@ import todos from "../projectImages/todoApp.png";
 import meditation from "../projectImages/meditation.png";
 import pig from "../projectImages/pig.png";
 import guess from "../projectImages/guess.png";
+import adminDashboard from "../projectImages/adminDashboard.png";
 export const PROJECTS = [
   {
     id: 0,
@@ -104,5 +105,17 @@ export const PROJECTS = [
     githubLink: "https://github.com/urieskenasy/Guess-My-Number",
     live: "https://guess-my-number-uri.netlify.app/",
     img: guess,
+  },
+  {
+    id: 8,
+    name: "MUI Business Dashboard",
+    description: {
+      technologies: "Nivo, Material UI, React Date Picker, Redux Toolkit, Redux Toolkit Query, MongoDB, nodeJS, expressJS, ReactJS",
+      description:
+        "This is a mock business dashboard application. I created this application for businesses to track their sales, products, employees, and customers. The app contains charts, tables, and a map to provide a simple way for tracking business charts. The data that is in use in this demo app is a mock DB I created, just to demonstrate the business data I would probably use in a none demo application. This application can be applied for any type of business. Please feel free to check out the live version.",
+    },
+    githubLink: "https://github.com/urieskenasy/mui-business-dashboard",
+    live: "https://uri-mui-business-dashboard.onrender.com/",
+    img: adminDashboard,
   },
 ];
