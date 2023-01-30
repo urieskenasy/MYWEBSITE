@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c2ec802a.css",
-    "main.js": "/static/js/main.559c30e3.js",
+    "main.js": "/static/js/main.a2d17f21.js",
     "static/js/787.855f30ea.chunk.js": "/static/js/787.855f30ea.chunk.js",
     "static/media/meditation.png": "/static/media/meditation.f25a756fcd75d7692918.png",
     "static/media/hobbit.png": "/static/media/hobbit.fc25fbd4e2302e9d4440.png",
@@ -14,6 +14,7 @@
     "static/media/IMG_20210826_220435-removebg-preview.png": "/static/media/IMG_20210826_220435-removebg-preview.0bca854f11734ef56b0c.png",
     "static/media/WhatsApp_Image_2022-12-10_at_22.25.22-removebg-preview.png": "/static/media/WhatsApp_Image_2022-12-10_at_22.25.22-removebg-preview.7c293cbddc22ab00400a.png",
     "static/media/meSmile02.png": "/static/media/meSmile02.7c293cbddc22ab00400a.png",
+    "static/media/adminDashboard.png": "/static/media/adminDashboard.eaf97b39e45bd1be477a.png",
     "static/media/guess.png": "/static/media/guess.6a44e56f9fff77f72dc5.png",
     "static/media/meCode01.jpeg": "/static/media/meCode01.0822bcc506851c6a7416.jpeg",
     "static/media/WhatsApp_Image_2022-12-10_at_22.27.29-removebg-preview.png": "/static/media/WhatsApp_Image_2022-12-10_at_22.27.29-removebg-preview.bd4cdb3345ce984fd8b3.png",
@@ -55,11 +56,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/index.html",
     "main.c2ec802a.css.map": "/static/css/main.c2ec802a.css.map",
-    "main.559c30e3.js.map": "/static/js/main.559c30e3.js.map",
+    "main.a2d17f21.js.map": "/static/js/main.a2d17f21.js.map",
     "787.855f30ea.chunk.js.map": "/static/js/787.855f30ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2ec802a.css",
-    "static/js/main.559c30e3.js"
+    "static/js/main.a2d17f21.js"
   ]
 }
