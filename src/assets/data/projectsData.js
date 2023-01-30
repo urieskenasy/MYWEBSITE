@@ -22,6 +22,18 @@ export const PROJECTS = [
   },
   {
     id: 1,
+    name: "MUI Business Dashboard",
+    description: {
+      technologies: "Nivo, Material UI, React Date Picker, Redux Toolkit, Redux Toolkit Query, MongoDB, nodeJS, expressJS, ReactJS",
+      description:
+        "This is a mock business dashboard application. I created this application for businesses to track their sales, products, employees, and customers. The app contains charts, tables, and a map to provide a simple way for tracking business charts. The data that is in use in this demo app is a mock DB I created, just to demonstrate the business data I would probably use in a none demo application. This application can be applied for any type of business. Please feel free to check out the live version.",
+    },
+    githubLink: "https://github.com/urieskenasy/mui-business-dashboard",
+    live: "https://uri-mui-business-dashboard.onrender.com/",
+    img: adminDashboard,
+  },
+  {
+    id: 2,
     name: "Hobbit",
     description: {
       technologies: "html, css, javaScript, ReactJS, fireBase, nodeJS, socket.IO", 
@@ -33,7 +45,7 @@ export const PROJECTS = [
     img: hobbit,
   },
   {
-    id: 2,
+    id: 3,
     name: "The Recipe center",
     description: {
       technologies: "html, css, javaScript, ReactJS, Axios, styledComponents",
@@ -45,7 +57,7 @@ export const PROJECTS = [
     img: foodApp,
   },
   {
-    id: 3,
+    id: 4,
     name: "Currency Converter",
     description: {
       technologies: "html, css, javaScript, ReactJS",
@@ -59,7 +71,7 @@ export const PROJECTS = [
     img: currencyConverter,
   },
   {
-    id: 4,
+    id: 5,
     name: "To-Do's",
     description: {
       technologies: "html, css, javaScript, ReactJS",
@@ -71,7 +83,7 @@ export const PROJECTS = [
     img: todos,
   },
   {
-    id: 5,
+    id: 6,
     name: "Meditation App",
     description: {
       technologies: "Javascript, Css, and HTML",
@@ -83,7 +95,7 @@ export const PROJECTS = [
     img: meditation,
   },
   {
-    id: 6,
+    id: 7,
     name: "Pig Game",
     description: {
       technologies: "Javascript, Css, and HTML",
@@ -95,7 +107,7 @@ export const PROJECTS = [
     img: pig,
   },
   {
-    id: 7,
+    id: 8,
     name: "Guess My Number",
     description: {
       technologies: "Javascript, Css, and HTML",
@@ -106,16 +118,5 @@ export const PROJECTS = [
     live: "https://guess-my-number-uri.netlify.app/",
     img: guess,
   },
-  {
-    id: 8,
-    name: "MUI Business Dashboard",
-    description: {
-      technologies: "Nivo, Material UI, React Date Picker, Redux Toolkit, Redux Toolkit Query, MongoDB, nodeJS, expressJS, ReactJS",
-      description:
-        "This is a mock business dashboard application. I created this application for businesses to track their sales, products, employees, and customers. The app contains charts, tables, and a map to provide a simple way for tracking business charts. The data that is in use in this demo app is a mock DB I created, just to demonstrate the business data I would probably use in a none demo application. This application can be applied for any type of business. Please feel free to check out the live version.",
-    },
-    githubLink: "https://github.com/urieskenasy/mui-business-dashboard",
-    live: "https://uri-mui-business-dashboard.onrender.com/",
-    img: adminDashboard,
-  },
+  
 ];
