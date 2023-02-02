@@ -26,7 +26,7 @@ export const PROJECTS = [
     description: {
       technologies: "Nivo, Material UI, React Date Picker, Redux Toolkit, Redux Toolkit Query, MongoDB, nodeJS, expressJS, ReactJS",
       description:
-        "This is a mock business dashboard application. I created this application for businesses to track their sales, products, employees, and customers. The app contains charts, tables, and a map to provide a simple way for tracking business charts. The data that is in use in this demo app is a mock DB I created, just to demonstrate the business data I would probably use in a none demo application. This application can be applied for any type of business. Please feel free to check out the live version.",
+        "This is a mock business dashboard application. I created this application for businesses to track their sales, products, employees, and customers. The app contains charts, tables, and a map to provide a simple way for tracking business charts. The data that is in use in this demo app is a business mock database, which is used to demonstrate the business data I would probably use in a none demo application. This application can be applied to any business. Please feel free to check out the live version.",
     },
     githubLink: "https://github.com/urieskenasy/mui-business-dashboard",
     live: "https://uri-mui-business-dashboard.onrender.com/",
