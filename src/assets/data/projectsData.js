@@ -7,6 +7,7 @@ import meditation from "../projectImages/meditation.png";
 import pig from "../projectImages/pig.png";
 import guess from "../projectImages/guess.png";
 import adminDashboard from "../projectImages/adminDashboard.png";
+import gym from "../projectImages/gym.png";
 export const PROJECTS = [
   {
     id: 0,
@@ -24,7 +25,8 @@ export const PROJECTS = [
     id: 1,
     name: "MUI Business Dashboard",
     description: {
-      technologies: "Nivo, Material UI, React Date Picker, Redux Toolkit, Redux Toolkit Query, MongoDB, nodeJS, expressJS, ReactJS",
+      technologies:
+        "Nivo, Material UI, React Date Picker, Redux Toolkit, Redux Toolkit Query, MongoDB, nodeJS, expressJS, ReactJS",
       description:
         "This is a mock business dashboard application. I created this application for businesses to track their sales, products, employees, and customers. The app contains charts, tables, and a map to provide a simple way for tracking business charts. The data that is in use in this demo app is a business mock database, which is used to demonstrate the business data I would probably use in a none demo application. This application can be applied to any business. Please feel free to check out the live version.",
     },
@@ -36,7 +38,8 @@ export const PROJECTS = [
     id: 2,
     name: "Hobbit",
     description: {
-      technologies: "html, css, javaScript, ReactJS, fireBase, nodeJS, socket.IO", 
+      technologies:
+        "html, css, javaScript, ReactJS, fireBase, nodeJS, socket.IO",
       description:
         "Team project i have created with my colleges. It is a small social media for people to meet each-other according to their shared hobbies. You will be able to sign up and share your hobbies. On the main dashboard you will only see people who share with you the same hobbies. You have the option to chat with them, get to know them and hopefully become friends 🤙",
     },
@@ -44,8 +47,23 @@ export const PROJECTS = [
     live: "https://hobbit-xi.vercel.app/",
     img: hobbit,
   },
+
   {
     id: 3,
+    name: "Mock Gym Website",
+    description: {
+      technologies:
+        "HTML, Tailwind Css, Vite, Framer-Motion, React, Typescript",
+      description:
+        "This is a Mock gym website. I created this simple website to use and demonstrate my knowledge of react-typescript, and practice the layout design. Generally, because of my passion for sports, I wanted to illustrate a gym website. Please feel free to visit the live version.",
+    },
+    githubLink:
+      "https://github.com/urieskenasy/mock-gym-react-typescript-website/tree/main",
+    live: "https://e2677e50.mock-gym-react-typescript-website.pages.dev/",
+    img: gym,
+  },
+  {
+    id: 4,
     name: "The Recipe center",
     description: {
       technologies: "html, css, javaScript, ReactJS, Axios, styledComponents",
@@ -57,7 +75,7 @@ export const PROJECTS = [
     img: foodApp,
   },
   {
-    id: 4,
+    id: 5,
     name: "Currency Converter",
     description: {
       technologies: "html, css, javaScript, ReactJS",
@@ -71,7 +89,7 @@ export const PROJECTS = [
     img: currencyConverter,
   },
   {
-    id: 5,
+    id: 6,
     name: "To-Do's",
     description: {
       technologies: "html, css, javaScript, ReactJS",
@@ -83,7 +101,7 @@ export const PROJECTS = [
     img: todos,
   },
   {
-    id: 6,
+    id: 7,
     name: "Meditation App",
     description: {
       technologies: "Javascript, Css, and HTML",
@@ -95,7 +113,7 @@ export const PROJECTS = [
     img: meditation,
   },
   {
-    id: 7,
+    id: 8,
     name: "Pig Game",
     description: {
       technologies: "Javascript, Css, and HTML",
@@ -107,7 +125,7 @@ export const PROJECTS = [
     img: pig,
   },
   {
-    id: 8,
+    id: 9,
     name: "Guess My Number",
     description: {
       technologies: "Javascript, Css, and HTML",
@@ -118,5 +136,4 @@ export const PROJECTS = [
     live: "https://guess-my-number-uri.netlify.app/",
     img: guess,
   },
-  
 ];
